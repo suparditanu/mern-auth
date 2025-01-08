@@ -1,0 +1,5 @@
+Full-Stack MERN Auth project: Build & Deploy (Reactjs, json web token, jwt, redux toolkit, cookie)
+
+with Sahand ---> React & Next.js
+
+https://www.youtube.com/watch?v=rXvQj-Z0v0s  ---> youtube video
