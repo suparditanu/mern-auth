@@ -3,3 +3,9 @@ Full-Stack MERN Auth project: Build & Deploy (Reactjs, json web token, jwt, redu
 with Sahand ---> React & Next.js
 
 https://www.youtube.com/watch?v=rXvQj-Z0v0s  ---> youtube video
+
+mongoDb ---> mern-auth cluster0
+pw-->ck3WyEHcdHVTMLfX
+user suparditanu
+
+mongodb+srv://suparditanu:ck3WyEHcdHVTMLfX@cluster0.2sjuf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
